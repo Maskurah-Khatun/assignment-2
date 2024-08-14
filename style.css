@@ -345,6 +345,7 @@ p {
   margin: auto;
   background-color: black;
   padding: 45px 0px;
+  padding-bottom: 120px;
 }
 
 .training-middle {
@@ -489,6 +490,71 @@ p {
 
 /* Here training section end */
 
+/* This is gym master section start (Extra-part)........  */
+.gymmaster-section{
+  width: 993px;
+  margin: auto;
+  padding: 50px 0px;
+  background-color: #1c1c1c;
+  color: white;
+  
+}
+.middle{
+  width: 87%;
+  margin: auto;
+  display:flex;
+}
+
+.gymmaster1{
+  width:60%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.gymmaster1 h3{
+  font-size: 40px;
+  width: 91%;
+  margin-bottom: 20px;
+}
+
+
+.gymmaster1 .ppp{
+  color: #8b8b8b;
+  margin-bottom: 20px;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.gymmaster2{
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.gymmaster2 img{
+  width: 100%;
+  height: 280px;
+  border-radius: 20px;
+}
+
+.gymmaster1 button{
+  width: 150px;
+  height: 40px;
+  color: white;
+  background-color: #e6533c;
+  border-radius: 30px;
+}
+
+.gymitem{
+  display: grid;
+  grid-template-columns:repeat(2,1fr);
+  width: 60%;
+  gap: 10px;
+  margin-bottom: 25px;
+}
+/* Here gym master section end  */
+
 /* This is bmi section start*/
 
 .bmi-section {
@@ -505,6 +571,7 @@ p {
 
 .bmi-top {
   background-color: black;
+  padding-top: 50px;
   padding-bottom: 50px;
 }
 
