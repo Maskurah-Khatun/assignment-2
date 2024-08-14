@@ -210,7 +210,7 @@ p {
   color: #8b8b8b;
 }
 
-/* hero section end */
+ /* hero section end  */
 
 /* this is habit section start*/
 
@@ -491,6 +491,7 @@ p {
 /* Here training section end */
 
 /* This is gym master section start (Extra-part)........  */
+
 .gymmaster-section{
   width: 993px;
   margin: auto;
@@ -539,8 +540,9 @@ p {
 }
 
 .gymmaster1 button{
-  width: 150px;
-  height: 40px;
+  width:30%;
+  font-size: 14px;
+  padding: 15px 20px;
   color: white;
   background-color: #e6533c;
   border-radius: 30px;
@@ -552,6 +554,9 @@ p {
   width: 60%;
   gap: 10px;
   margin-bottom: 25px;
+  background-color: black;
+  padding: 20px;
+  border-radius: 12px;
 }
 /* Here gym master section end  */
 
@@ -571,8 +576,8 @@ p {
 
 .bmi-top {
   background-color: black;
-  padding-top: 50px;
   padding-bottom: 50px;
+  padding-top: 50px;
 }
 
 .bmi-head-content {
@@ -857,7 +862,6 @@ option {
 /* Here team section end */
 
 /* This is footer section start */
-
 .footer-section {
   width: 993px;
   margin: auto;
