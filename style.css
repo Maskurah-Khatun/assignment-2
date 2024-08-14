@@ -23,7 +23,7 @@ p {
   src: url(./resource/fonts/Miama.ttf);
 }
 
-/* --------------------------- */
+/* This is header part start */
 
 .header {
   background-color: #1c1c1c;
@@ -78,7 +78,7 @@ p {
   background-color: #e6533c;
 }
 
-/* -------------------------------- */
+/* This is hero section*/
 .hero-section {
   width: 993px;
   margin: auto;
@@ -210,9 +210,9 @@ p {
   color: #8b8b8b;
 }
 
-/* ----------------------- */
+/* hero section end */
 
-/* ----------------------- */
+/* this is habit section start*/
 
 .habit-section {
   width: 993px;
@@ -272,9 +272,9 @@ p {
   line-height: 18px;
 }
 
-/* ------------------------ */
+/* here habit section end*/
 
-/* ------------------------ */
+/* This is run section start */
 
 .run-section {
   width: 993px;
@@ -336,9 +336,9 @@ p {
   background-size: cover;
 }
 
-/* ------------------------ */
+/* Here run section end */
 
-/* ------------------------ */
+/* This is training section start */
 
 .training-section {
   width: 993px;
@@ -487,9 +487,9 @@ p {
   bottom: 20px;
 }
 
-/* ------------------------ */
+/* Here training section end */
 
-/* ------------------------ */
+/* This is bmi section start*/
 
 .bmi-section {
   width: 993px;
@@ -644,9 +644,9 @@ option {
   padding-top: 20px;
 }
 
-/* ------------------------ */
+/* Here bmi setion end*/
 
-/* ------------------------ */
+/* This is team section start */
 
 .team-section {
   width: 993px;
@@ -787,9 +787,9 @@ option {
   bottom: 12px;
 }
 
-/* ------------------------ */
+/* Here team section end */
 
-/* ------------------------ */
+/* This is footer section start */
 
 .footer-section {
   width: 993px;
@@ -873,9 +873,7 @@ option {
   margin-top: 20px;
 }
 
-/* ------------------------ */
-
-/* ------------------------ */
+/* Here footer section end */
 
 .display_none {
   display: none;
